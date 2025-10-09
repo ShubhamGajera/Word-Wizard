@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🔍 **Grammar & Spell Checker** – Identify and correct grammar, spelling, and punctuation errors.
 - ✍️ **AI-Powered Paraphraser** – Instantly rephrase sentences to improve clarity and creativity.
