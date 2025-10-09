@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology 
 |------------|
@@ -23,19 +23,19 @@
 
 
 
-## 👨‍💻 Developed By
+## Developed By
 
 - [Shubham Gajera](https://www.linkedin.com/in/shubham-gajera-2135b8268)
 
 ---
 
-## 📬 Contact
+## Contact
 
 📧 Email: **shubhamgajera200@gmail.com**  
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
