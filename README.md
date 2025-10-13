@@ -1,5 +1,5 @@
 
-# 🪄 Word Wizard
+#  Word Wizard
 
 **Word Wizard** is a smart and intuitive web app designed to help users enhance their vocabulary, check grammar, summarize content, and transform text using AI. Ideal for students, content creators, language learners, and anyone working with words.
 
