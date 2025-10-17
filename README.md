@@ -41,5 +41,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 <!-- shubham -->
-## ⭐️ Support
+## Support
 If you found this helpful, feel free to ⭐ the repo and share it!
